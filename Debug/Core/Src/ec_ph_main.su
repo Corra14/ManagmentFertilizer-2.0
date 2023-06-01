@@ -1,0 +1,4 @@
+../Core/Src/ec_ph_main.c:23:7:ec_read	128	static
+../Core/Src/ec_ph_main.c:86:7:ph_read	120	static
+../Core/Src/ec_ph_main.c:155:6:MX_ADC3_Init1_Channel2	32	static
+../Core/Src/ec_ph_main.c:207:6:MX_ADC3_Init1_Channel3	32	static

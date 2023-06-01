@@ -1,0 +1,4 @@
+../Core/Src/step_main.c:8:6:delay	16	static
+../Core/Src/step_main.c:14:6:stepper_set_rpm	16	static
+../Core/Src/step_main.c:26:6:stepper_half_drive	16	static
+../Core/Src/step_main.c:87:6:stepper_step_angle	40	static
